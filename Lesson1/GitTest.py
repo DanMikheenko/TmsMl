@@ -12,4 +12,6 @@ def bubble_sort(arr):
     return a
 
 data = [-12, 1, 45, 2, 8, 0]
+
+# display the sorted array
 print(bubble_sort(data))
